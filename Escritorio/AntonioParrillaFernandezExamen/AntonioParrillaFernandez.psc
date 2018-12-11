@@ -9,7 +9,7 @@ Funcion Triangulo(a,b) // Esta función realiza el área del triángulo
 	Escribir  "El �rea del tri�ngulo es: ", area
 FinFuncion
 
-Funcion Trapecio(a,b)
+Funcion Trapecio(a,b) // Esta funcion realiza el área del trapecio
 
 	area = (a+b)/2
 	Escribir  "El �rea del trapecio es: ", area
