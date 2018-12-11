@@ -4,7 +4,7 @@ Funcion Rectangulo(a,b) // Esta función realiza el área del rectángulo
 	Escribir  "El �rea del rect�ngulo es: ", area 
 FinFuncion
 
-Funcion Triangulo(a,b)
+Funcion Triangulo(a,b) // Esta función realiza el área del triángulo
 	area = (b*a)/2
 	Escribir  "El �rea del tri�ngulo es: ", area
 FinFuncion
